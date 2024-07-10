@@ -9,19 +9,32 @@ Welcome to my GitHub! I'm currently pursuing a degree in Software Engineering at
 
 ## 🛠️ My Skills
 
-### Programming and Development
-- **Languages:** HTML | CSS | JavaScript | Java
-- **Frameworks:** React Native
+### Programming and Development:
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">     
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+<div/>
+   
+### 🖌️  Design Tools:
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">     
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
+<div/>
 
-### 🖌️ Design Tools
-- **Tools:** Figma | Photoshop | Canva
+### 🖥️ Workstation Tools:
 
-### 🛒 E-commerce Platforms
-- **Platforms:** Nuvemshop | Shopify
-
-### 🖥️ Workstation Tools
-- **Editors & IDEs:** VScode, Intellij
-- **Version Control:** Git
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">     
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+<div/>
 
 ## 🎯 Career Objective
 My goal is to enter the programming market as an intern, where I can apply my skills and continue to grow professionally.
@@ -35,5 +48,4 @@ Feel free to reach out to me on any of the following platforms:
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:formentinmatheus1@gmail.com)
 
 Thank you for visiting my GitHub! Let's connect and create something amazing together.
-   
    
