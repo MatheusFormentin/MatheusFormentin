@@ -2,6 +2,11 @@
 
 Welcome to my GitHub! I'm currently pursuing a degree in Software Engineering at UniRitter FAPA and have experience working as a Junior Apprentice and Administrative Assistant at Vipes do Brasil. I'm passionate about coding, problem-solving, and continuously expanding my skill set.
 
+<div align="center" style="margin-bottom:100px">
+<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MatheusFormentin&theme=dracula&mode=weekly" />
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMouraa&show_icons=true&theme=dracula&layout=compact" />
+</div>
+
 ## 🛠️ My Skills
 
 ### Programming and Development
