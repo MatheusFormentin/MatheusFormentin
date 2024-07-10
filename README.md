@@ -1,26 +1,34 @@
-I ❤️ developing innovative web solutions.
+# 💻 Matheus Formentin | Software Engineer in Training
 
-As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on HTML, CSS, JavaScript, and PHP, I am passionate about crafting user-centric experiences and leveraging technology for high-quality solutions.
+Welcome to my GitHub! I'm currently pursuing a degree in Software Engineering at UniRitter FAPA and have experience working as a Junior Apprentice and Administrative Assistant at Vipes do Brasil. I'm passionate about coding, problem-solving, and continuously expanding my skill set.
 
- 
- 
-   
+## 🛠️ My Skills
 
-My Skills
-Programming and Development:
-HTML  CSS  JavaScript  PHP  React Native  WordPress 
+### Programming and Development
+- **Languages:** HTML | CSS | JavaScript | Java
+- **Frameworks:** React Native
 
-Design Tools:
-Figma  Photoshop  Canva 
+### 🖌️ Design Tools
+- **Tools:** Figma | Photoshop | Canva
 
-E-commerce Platforms:
-Wix  Tray  Nuvemshop  Shopify 
+### 🛒 E-commerce Platforms
+- **Platforms:** Nuvemshop | Shopify
 
-Workstation Tools:
-VScode  Trello  Asana  Notion  Git 
+### 🖥️ Workstation Tools
+- **Editors & IDEs:** VScode, Intellij
+- **Version Control:** Git
 
-   
+## 🎯 Career Objective
+My goal is to enter the programming market as an intern, where I can apply my skills and continue to grow professionally.
 
-Contacts:
+## 📬 Contacts
+
+Feel free to reach out to me on any of the following platforms:
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](instagram.com/mat_formentin/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](linkedin.com/in/matheus-formentin-5b3b8b292/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:formentinmatheus1@gmail.com)
+
+Thank you for visiting my GitHub! Let's connect and create something amazing together.
    
    
