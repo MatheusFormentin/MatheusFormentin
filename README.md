@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm currently pursuing a degree in Software Engineering at
 </div>
 
 <div align="center" style="margin-bottom:100px">
-<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMouraa&show_icons=true&theme=dracula&layout=compact" />
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFormentin&show_icons=true&theme=dracula&layout=compact" />
 </div>
 
 ## 🛠️ My Skills
